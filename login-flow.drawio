@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T19:54:07.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="i1gK7zVrVwn7mV43qeg8" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-05T19:56:38.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="B1a0yP1x74qhAEwPZjBr" version="15.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1302" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="FoUgFa0rfiz2MVf_x0f_-0" value="API Gateway" style="swimlane;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;shadow=0;rounded=0;startSize=23;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FoUgFa0rfiz2MVf_x0f_-0" value="API Gateway" style="swimlane;fillColor=#0050ef;strokeColor=#001DBC;strokeWidth=1;perimeterSpacing=0;labelBackgroundColor=none;shadow=0;rounded=0;startSize=23;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="30" width="360" height="260" as="geometry">
             <mxRectangle x="335" y="30" width="110" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -39,8 +39,8 @@
         <mxCell id="FXxWNrquB4hLTaIwDLAD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FXxWNrquB4hLTaIwDLAD-4" target="FXxWNrquB4hLTaIwDLAD-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FoUgFa0rfiz2MVf_x0f_-1" value="Auth Service" style="swimlane;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="420" width="790" height="750" as="geometry" />
+        <mxCell id="FoUgFa0rfiz2MVf_x0f_-1" value="Auth Service" style="swimlane;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="414" width="760" height="706" as="geometry" />
         </mxCell>
         <mxCell id="FXxWNrquB4hLTaIwDLAD-10" value="IsFIDO2Enabled?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="FoUgFa0rfiz2MVf_x0f_-1" vertex="1">
           <mxGeometry x="92.5" y="110" width="130" height="80" as="geometry" />
